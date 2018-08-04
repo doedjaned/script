@@ -1,0 +1,3 @@
+git clone --depth 1 https://github.com/doedjaned/android_device_lenovo_kuntao device/lenovo/kuntao -b arrow-8.x
+git clone --depth 1 https://github.com/doedjaned/android_vendor_lenovo_kuntao vendor/lenovo -b arrow-8.x
+git clone --depth 1 https://github.com/doedjaned/android_kernel_lenovo_msm8953 kernel/lenovo/msm8953 -b arrow-8.x
